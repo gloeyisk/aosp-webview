@@ -10,9 +10,9 @@
 
 ## Contents:
 - Base extensions   
-webview: 88.0.4324.152 (0206)   
-module: 88.0.4324.152 (0210)   
-code: 1   
+webview: 89.0.4389.105 (0324)   
+module: 89.0.4389.105 (0325)   
+code: 2   
 
 ## Credits:
 - [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
