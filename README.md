@@ -10,9 +10,9 @@
 
 ## Contents:
 - Base extensions   
-webview: 89.0.4389.105 (0324)   
-module: 89.0.4389.105 (0325)   
-code: 2   
+webview: 90.0.4430.82 (0421)   
+module: 90.0.4430.82 (0519)   
+code: 3   
 
 ## Credits:
 - [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
@@ -22,5 +22,5 @@ code: 2
 
 ## Extras:
 - Donation: [PayPal](https://paypal.me/gloeyisk) - [LiberaPay](https://liberapay.com/gloeyisk)
-- Mirror Links: [Telegram](https://t.me/gldppc) - [Sourceforge](https://bit.ly/2YZyZlA)
+- Mirror Links: [Telegram](https://t.me/gldppc) - [Sourceforge](https://bit.ly/2YZyZlA) - [AndroidFileHost](https://bit.ly/2Qx6MBL)
 - Source Code: [GitHub](https://github.com/gloeyisk/AOSPWebView)
