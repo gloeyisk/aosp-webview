@@ -1,6 +1,6 @@
-id=AOSPWebView
+id=aosp-webview
 name=AOSP WebView
-version=88.0.4324.152
-versionCode=1
+version=92.0.4515.159
+versionCode=6
 author=gloeyisk
 description=Android external Chromium WebView
